@@ -1,0 +1,12 @@
+# Raw / confidential data
+*.xlsx
+*.xls
+*.csv
+*.hyper
+*.extract
+*.tdsx
+*.twbx
+
+# Local files
+.DS_Store
+Thumbs.db
